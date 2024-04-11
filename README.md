@@ -34,3 +34,7 @@ The CSS file `(style.css)` provides styling for the scrolling circle:
 # Dependencies
 - jQuery
 - jQuery Throttle / Debounce
+
+# Demo
+
+https://github.com/UsamaSaleem148/ScrollCircle/assets/28651129/f5c6feed-9af8-49b5-832b-6ff70aa86dda
